@@ -1,0 +1,79 @@
+ 
+  body {
+  background:url('images/BeigeBack.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover
+   
+}
+.onglets a
+{
+text-align: center ;
+font-family: 'Fasthand', cursive;
+font-family: 'Playfair Display', serif;
+font-size: 60px;
+color: #000;
+font-family :cursive;
+margin-top:300px;
+text-decoration:none ;
+margin-right:10px;
+align-items:center;
+
+}
+a{
+	color: #000 	;  
+	font-family :cursive;
+	margin-top:300px;
+	margin-right:10px;
+	}
+  nav{
+    width: 100%;
+    margin: 0px auto 40px auto;
+    top: 0px; 
+    text-align: center;
+    
+}
+nav li{
+  float: left;
+  width: 25%;/*100% divisé par le nombre d'éléments de menu*/
+  text-align: center;/*Centre le texte dans les éléments de menu*/
+  text-align: none;
+
+}
+nav{
+  width: 100%;
+  margin: 0px auto 40px auto;
+ 
+  position: sticky;
+  top: 0px;
+}
+
+h1
+{
+text-align: center ;
+font-family: serif;
+font-size: 40px;
+color: #000;
+}
+h2
+{
+text-align: center ;
+font-family: serif;
+font-size: 40px;
+color: #000;
+}
+h3
+{
+text-align: center ;
+font-family: serif;
+font-size: 40px;
+color: #000;
+}
+footer
+{
+  font-size: 20 px;
+  text-align: center;
+  background:#c2bebe;
+}
+

@@ -1,0 +1,90 @@
+body {
+  background:url('images/Beigeback.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+   background-size: cover
+}
+.onglets a
+{
+text-align: center ;
+font-family: 'Fasthand', cursive;
+font-family: 'Playfair Display', serif;
+font-size: 60px;
+color: #000;
+font-family :cursive;
+margin-top:300px;
+text-decoration:none ;
+margin-right:10px;
+align-items:center;
+
+
+}
+a{
+	color: #000 	;  
+	font-family :cursive;
+	margin-top:300px;
+	text-decoration:none ;
+	margin-right:10px;
+	}
+nav li{
+  float: left;
+  width: 25%;/*100% divisé par le nombre d'éléments de menu*/
+  text-align: center;/*Centre le texte dans les éléments de menu*/
+}
+
+nav{
+  width: 100%;
+  margin: 0px auto 40px auto;
+  background-color: rgb(219, 219, 219);
+  position: sticky;
+  top: 0px;
+}
+
+h1{
+	font-family: cursive;
+  font-size: 40px;
+  color: rgb(63, 58, 58);
+}
+h2
+{
+	font-family: cursive;
+  font-size: 40px;
+  color: rgb(48, 43, 43);
+}
+h3
+
+{
+  font-family: cursive;
+  font-size: 40px;
+  color: rgb(48, 43, 43);
+}
+
+P2{
+	font-family: 'Playfair Display', serif;
+	font-family:'Fasthand', cursive;
+}
+P3
+{
+	font-family: 'Playfair Display', serif;
+	font-family: 'Fasthand', cursive;
+}
+P1{
+	font-family: 'Playfair Display', serif;
+	font-family: 'Fasthand', cursive;
+
+}
+
+
+footer
+{
+  font-size: 20 px;
+  text-align: center;
+  background:#c2bebe;
+}
+h{
+  font-style: oblique; 
+  
+  font-size: 30px;
+}
+ 

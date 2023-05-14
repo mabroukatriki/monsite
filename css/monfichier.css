@@ -1,0 +1,58 @@
+
+body {
+  background:url('images/nuage.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center;
+   background-size: cover
+}
+
+h1
+{
+text-align: center ;
+font-family :cursive;
+font-size: 60px;
+color: #000;
+}
+h2
+{
+text-align: center ;
+font-size: 70px;
+font-family: 'Fasthand', cursive;
+font-family: 'Playfair Display', serif;
+border-width:3px;
+border-style:dotted;
+border-color:black;
+}
+
+ div{
+   
+	
+	justify-content:center;
+	align-items:center;
+	border-bottom:10px Solid #1a0404;
+	font-size:70px;
+	font-family:'playfair Display ', Sans-serif;
+	padding-bottom:10px;
+	flex-direction:colum;
+	align-items:center;
+	margin-bottom:20px;
+	}
+	
+	  a{
+	color: #000 	;  
+	font-family :cursive;
+	margin-top:300px;
+	text-decoration:none ;
+	margin-right:10px;
+	}
+	  P{
+		font-family: 'Playfair Display', serif;
+		font-family: ' fantasy';
+		text-align:center;
+		font-style: oblique;
+		font-size:50px;
+		
+
+}
+	
